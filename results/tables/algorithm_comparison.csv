@@ -1,0 +1,9 @@
+Metric,K-Means,Agglomerative
+Algorithm Type,Centroid-based (Partitional),Connectivity-based (Hierarchical)
+Optimal Clusters (K),4,4
+Silhouette Score,0.4559,0.4532
+Cluster 0 Size,994,1011
+Cluster 1 Size,1007,1244
+Cluster 2 Size,1769,1767
+Cluster 3 Size,1230,978
+Adjusted Rand Index (ARI),0.9752,0.9752

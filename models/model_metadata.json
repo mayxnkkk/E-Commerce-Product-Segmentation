@@ -1,0 +1,28 @@
+{
+  "project_name": "E-Commerce Product Segmentation Using Machine Learning",
+  "algorithm": "KMeans",
+  "dataset_type": "Synthetic Commercial E-Commerce Dataset (Right-skewed, Multi-profile)",
+  "number_of_records": 5000,
+  "features": [
+    "price",
+    "rating",
+    "review_count",
+    "return_rate",
+    "sales_volume",
+    "discount_frequency"
+  ],
+  "scaling_method": "StandardScaler",
+  "outlier_method": "IQR Capping (Winsorization) [Q1 - 1.5*IQR, Q3 + 1.5*IQR]",
+  "optimal_k": 4,
+  "wcss": 8298.79,
+  "silhouette_score": 0.4559,
+  "random_state": 42,
+  "training_date": "2026-09-30",
+  "model_version": "1.0.0",
+  "cluster_names": [
+    "High-Return / Discount-Dependent Products",
+    "Premium High Performers",
+    "Value High-Sellers",
+    "Low-Performance Products"
+  ]
+}

@@ -1,0 +1,7 @@
+Metric,Before Treatment,After Treatment
+Number of outliers detected & treated,"729 (Price: 674, Sales: 55)",0 (All capped to IQR bounds)
+Selected K,4,4
+WCSS,"11,288.74","8,298.79"
+Silhouette Score,0.4228,0.4559
+"Largest cluster size (count, %)",2748 (55.0%),1769 (35.4%)
+"Smallest cluster size (count, %)",46 (0.9%),994 (19.9%)

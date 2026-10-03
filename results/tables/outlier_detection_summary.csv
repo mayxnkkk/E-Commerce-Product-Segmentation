@@ -1,0 +1,3 @@
+,feature,q1,q3,iqr,lower_bound,upper_bound,outlier_count,outlier_pct
+price,price,962.0625,4014.6375,3052.575,0.0,8593.5,674,13.48
+sales_volume,sales_volume,546.0,5844.5,5298.5,0.0,13792.25,55,1.0999999999999999
